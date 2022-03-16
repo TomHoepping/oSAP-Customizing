@@ -1,0 +1,31 @@
+[
+ {
+  "table":"T880",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "RCOMP":"RIL",
+    "NAME1":"RIL - Company (OpenSAP)",
+    "CNTRY":"AQ",
+    "NAME2":"",
+    "LANGU":"E",
+    "STRET":"Somerwhere",
+    "POBOX":"12345",
+    "PSTLC":"12345",
+    "CITY":"Else",
+    "CURR":"",
+    "MODCP":"",
+    "GLSIP":"",
+    "RESTA":"",
+    "RFORM":"",
+    "ZWEIG":"",
+    "MCOMP":"",
+    "MCLNT":0,
+    "LCCOMP":"",
+    "STRT2":"",
+    "INDPO":""
+   }
+  ]
+ }
+]
